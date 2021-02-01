@@ -1,4 +1,12 @@
-* {
+#headline {
+    background-color: #000;
+    color: white;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+h1, h2, h3 {
+    text-align: center;
+
 }
 #img-div {
     text-align: center;
@@ -9,7 +17,6 @@
     display: block;
     margin: 2px auto;
     max-width: 100%;
-    /* height: auto; */
 }
 
 #img-caption {
@@ -21,4 +28,10 @@
 p {
     text-align: justify;
     margin: 10px auto;
+    padding: 0 5em;
+}
+
+#more-info{
+    text-align: center;
+    background-color: rgb(226, 226, 226);
 }

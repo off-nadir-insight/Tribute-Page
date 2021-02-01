@@ -23,6 +23,7 @@ h1, h2, h3 {
 }
 
 #tribute-info {
+    width: 100%;
 }
 
 p {
@@ -32,6 +33,10 @@ p {
 }
 
 #more-info{
+    margin-top: 2em;
+    height: 1.5em;
+    padding: 1em;
     text-align: center;
+
     background-color: rgb(226, 226, 226);
 }

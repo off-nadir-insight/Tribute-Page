@@ -1,8 +1,24 @@
+* {
+}
 #img-div {
+    text-align: center;
+    /* display: block; */
 }
 
 #image {
-    margin: 10px auto;
     display: block;
-    width: 75%;
+    margin: 2px auto;
+    max-width: 100%;
+    /* height: auto; */
+}
+
+#img-caption {
+}
+
+#tribute-info {
+}
+
+p {
+    text-align: justify;
+    margin: 10px auto;
 }
